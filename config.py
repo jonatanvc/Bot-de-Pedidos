@@ -1,8 +1,8 @@
-API_ID = 29731907
-API_HASH = "9dc7dc047bf497f26ef6fa4c6e64689f"
-BOT_TOKEN = "8352181437:AAFaX3x8bE4fJ28B-dL_Cu0RweVnOwoo91Q"
-CANAL_USERNAME = "https://t.me/techgeniusjvc"
-GRUPO_USERNAME = "Bull_Geeks"
-OWNER_ID = 923639754
-ADMIN_GROUP_ID = -1003161236792
+API_ID = 0
+API_HASH = ""
+BOT_TOKEN = ""
+CANAL_USERNAME = "https://t.me/tucanal"
+GRUPO_USERNAME = "tugrupo" #sin el @ y https://t.me/
+OWNER_ID = 0
+ADMIN_GROUP_ID = 0
 DB_PATH = "bot_pedidos.db"
